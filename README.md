@@ -4,8 +4,7 @@ git clone https://github.com/Tsun4-Al3xandra/Guest-Book.git
 ```
 cd Guest-Book
 ```
-
-** # How To Use It? **
+# How To Use It?
 
 > Step 1
 ```
