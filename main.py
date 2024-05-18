@@ -3,7 +3,7 @@ import PySimpleGUI as sg
 
 sg.theme('DarkPurple6')
 
-EXCEL_FILE = "C:/Users/User/Documents/Buku Tamu/IdentitasTamu.xlsx";
+EXCEL_FILE = "C:/Users/User/Documents/Buku Tamu/IdentitasTamu.xlsx"; #Change With Your Directory Excel File
 
 df = pd.read_excel(EXCEL_FILE)
 
